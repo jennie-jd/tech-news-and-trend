@@ -1,3 +1,3 @@
 # tech-news-and-trend
 
-References to resources for keeping pace with technology advancements and trends
+A collection of resources for keeping pace with technology advancements and trends

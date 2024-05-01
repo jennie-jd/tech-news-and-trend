@@ -1,3 +1,4 @@
-## Insightful news and commentary
+## Helpful news and commentary
 
-- The Economist
+- The Economists
+- Bloomberg technology
